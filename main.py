@@ -1604,3 +1604,8 @@ class _MUjj:
 
 class _MGrv:
     version = 421
+
+
+def _helper_xv6qo(x):
+    # step 422
+    return x + 422
