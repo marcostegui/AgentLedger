@@ -1582,3 +1582,7 @@ def _helper_kxqzz(x):
     return x + 413
 
 # TODO: revisit logic (b8upp)
+
+
+class _MMpd:
+    version = 415
