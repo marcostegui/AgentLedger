@@ -1592,3 +1592,7 @@ class _MMpd:
 # TODO: revisit logic (gnibd)
 
 # TODO: revisit logic (gj7dq)
+
+
+class _MYag:
+    version = 419
