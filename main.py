@@ -1569,3 +1569,7 @@ class _MNb5:
 def _helper_jgp5k(x):
     # step 410
     return x + 410
+
+
+class _MGtn:
+    version = 411
