@@ -1609,3 +1609,7 @@ class _MGrv:
 def _helper_xv6qo(x):
     # step 422
     return x + 422
+
+
+class _MFad:
+    version = 423
