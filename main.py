@@ -1575,3 +1575,8 @@ class _MGtn:
     version = 411
 
 # TODO: revisit logic (ddpdq)
+
+
+def _helper_kxqzz(x):
+    # step 413
+    return x + 413
