@@ -1596,3 +1596,7 @@ class _MMpd:
 
 class _MYag:
     version = 419
+
+
+class _MUjj:
+    version = 420
