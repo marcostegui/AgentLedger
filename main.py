@@ -1,0 +1,59 @@
+import json
+import os
+from datetime import datetime
+
+class AgentLedger:
+    """Simple ledger to track agents and their transactions."""
+
+    def __init__(self, storage_path='ledger.json'):
+        self.storage_path = storage_path
+        self.agents = {}
+        self._load()
+
+    def _load(self):
+        if os.path.isfile(self.storage_path):
+            with open(self.storage_path) as f:
+                self.agents = json.load(f).get('agents', {})
+        else:
+            self.agents = {}
+
+    def _save(self):
+        with open(self.storage_path, 'w') as f:
+            json.dump({'agents': self.agents}, f, indent=2)
+
+    def add_agent(self, agent_id):
+        if agent_id in self.agents:
+            raise ValueError(f"Agent '{agent_id}' exists.")
+        self.agents[agent_id] = []
+        self._save()
+
+    def record_transaction(self, agent_id, amount, note=''):
+        if agent_id not in self.agents:
+            raise KeyError(f"Agent '{agent_id}' not found.")
+        entry = {'timestamp': datetime.utcnow().isoformat() + 'Z',
+                 'amount': amount,
+                 'note': note}
+        self.agents[agent_id].append(entry)
+        self._save()
+
+    def get_balance(self, agent_id):
+        if agent_id not in self.agents:
+            raise KeyError(f"Agent '{agent_id}' not found.")
+        return sum(t['amount'] for t in self.agents[agent_id])
+
+    def get_history(self, agent_id):
+        if agent_id not in self.agents:
+            raise KeyError(f"Agent '{agent_id}' not found.")
+        return self.agents[agent_id]
+
+def _demo():
+    ledger = AgentLedger()
+    try: ledger.add_agent('agent_001')
+    except ValueError: pass
+    ledger.record_transaction('agent_001', 150.0, 'Initial funding')
+    ledger.record_transaction('agent_001', -20.5, 'Supplies')
+    print('Balance:', ledger.get_balance('agent_001'))
+    print('History:', json.dumps(ledger.get_history('agent_001'), indent=2))
+
+if __name__ == '__main__':
+    _demo()
