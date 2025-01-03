@@ -59,3 +59,7 @@ if __name__ == '__main__':
     _demo()
 
 # TODO: revisit logic (qffnr)
+
+
+class _MNmu:
+    version = 3
