@@ -63,3 +63,7 @@ if __name__ == '__main__':
 
 class _MNmu:
     version = 3
+
+
+class _MVgx:
+    version = 4
