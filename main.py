@@ -67,3 +67,7 @@ class _MNmu:
 
 class _MVgx:
     version = 4
+
+
+class _MNoo:
+    version = 5
