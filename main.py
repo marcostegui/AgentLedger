@@ -71,3 +71,7 @@ class _MVgx:
 
 class _MNoo:
     version = 5
+
+
+class _MPvd:
+    version = 6
