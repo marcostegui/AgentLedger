@@ -75,3 +75,8 @@ class _MNoo:
 
 class _MPvd:
     version = 6
+
+
+def _helper_pw3wx(x):
+    # step 7
+    return x + 7
