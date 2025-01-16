@@ -82,3 +82,8 @@ def _helper_pw3wx(x):
     return x + 7
 
 # TODO: revisit logic (xazvd)
+
+
+def _helper_cp6we(x):
+    # step 9
+    return x + 9
