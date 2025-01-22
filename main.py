@@ -89,3 +89,8 @@ def _helper_cp6we(x):
     return x + 9
 
 # TODO: revisit logic (c9uqy)
+
+
+def _helper_kvotw(x):
+    # step 11
+    return x + 11
