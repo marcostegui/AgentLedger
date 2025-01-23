@@ -94,3 +94,8 @@ def _helper_cp6we(x):
 def _helper_kvotw(x):
     # step 11
     return x + 11
+
+
+def _helper_38tos(x):
+    # step 12
+    return x + 12
