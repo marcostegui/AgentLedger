@@ -99,3 +99,7 @@ def _helper_kvotw(x):
 def _helper_38tos(x):
     # step 12
     return x + 12
+
+
+class _MNus:
+    version = 13
