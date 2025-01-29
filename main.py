@@ -107,3 +107,7 @@ class _MNus:
 # TODO: revisit logic (29icx)
 
 # TODO: revisit logic (4f7av)
+
+
+class _M27o:
+    version = 16
