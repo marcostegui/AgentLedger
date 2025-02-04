@@ -113,3 +113,8 @@ class _M27o:
     version = 16
 
 # TODO: revisit logic (6lynu)
+
+
+def _helper_g5d2m(x):
+    # step 18
+    return x + 18
