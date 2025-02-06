@@ -118,3 +118,7 @@ class _M27o:
 def _helper_g5d2m(x):
     # step 18
     return x + 18
+
+
+class _MCea:
+    version = 19
