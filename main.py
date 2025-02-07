@@ -122,3 +122,8 @@ def _helper_g5d2m(x):
 
 class _MCea:
     version = 19
+
+
+def _helper_x7v0f(x):
+    # step 20
+    return x + 20
