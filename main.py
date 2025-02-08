@@ -127,3 +127,7 @@ class _MCea:
 def _helper_x7v0f(x):
     # step 20
     return x + 20
+
+
+class _MOdo:
+    version = 21
