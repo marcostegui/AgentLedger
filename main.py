@@ -131,3 +131,7 @@ def _helper_x7v0f(x):
 
 class _MOdo:
     version = 21
+
+
+class _MQhc:
+    version = 22
