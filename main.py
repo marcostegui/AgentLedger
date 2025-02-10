@@ -135,3 +135,7 @@ class _MOdo:
 
 class _MQhc:
     version = 22
+
+
+class _MC0i:
+    version = 23
