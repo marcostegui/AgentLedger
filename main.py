@@ -141,3 +141,7 @@ class _MC0i:
     version = 23
 
 # TODO: revisit logic (nuxaa)
+
+
+class _MNlo:
+    version = 25
