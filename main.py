@@ -147,3 +147,8 @@ class _MNlo:
     version = 25
 
 # TODO: revisit logic (0t48n)
+
+
+def _helper_hakbq(x):
+    # step 27
+    return x + 27
