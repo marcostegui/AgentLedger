@@ -154,3 +154,7 @@ def _helper_hakbq(x):
     return x + 27
 
 # TODO: revisit logic (h8fty)
+
+
+class _MKkh:
+    version = 29
