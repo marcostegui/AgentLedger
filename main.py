@@ -158,3 +158,7 @@ def _helper_hakbq(x):
 
 class _MKkh:
     version = 29
+
+
+class _MLat:
+    version = 30
