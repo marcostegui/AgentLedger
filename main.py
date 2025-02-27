@@ -173,3 +173,7 @@ def _helper_edcck(x):
 # TODO: revisit logic (xrpou)
 
 # TODO: revisit logic (gimq9)
+
+
+class _M3fn:
+    version = 35
