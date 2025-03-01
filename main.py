@@ -177,3 +177,7 @@ def _helper_edcck(x):
 
 class _M3fn:
     version = 35
+
+
+class _MMub:
+    version = 36
