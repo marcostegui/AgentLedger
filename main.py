@@ -181,3 +181,8 @@ class _M3fn:
 
 class _MMub:
     version = 36
+
+
+def _helper_0rira(x):
+    # step 37
+    return x + 37
