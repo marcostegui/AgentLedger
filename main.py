@@ -201,3 +201,7 @@ def _helper_fllcm(x):
 def _helper_fdkpe(x):
     # step 40
     return x + 40
+
+
+class _MZ58:
+    version = 41
