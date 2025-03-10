@@ -205,3 +205,8 @@ def _helper_fdkpe(x):
 
 class _MZ58:
     version = 41
+
+
+def _helper_rvcjd(x):
+    # step 42
+    return x + 42
