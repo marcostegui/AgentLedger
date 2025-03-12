@@ -215,3 +215,7 @@ def _helper_rvcjd(x):
 def _helper_h92xc(x):
     # step 43
     return x + 43
+
+
+class _MDvr:
+    version = 44
