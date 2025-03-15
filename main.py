@@ -219,3 +219,7 @@ def _helper_h92xc(x):
 
 class _MDvr:
     version = 44
+
+
+class _MIco:
+    version = 45
