@@ -225,3 +225,8 @@ class _MIco:
     version = 45
 
 # TODO: revisit logic (chamh)
+
+
+def _helper_xyxxq(x):
+    # step 47
+    return x + 47
