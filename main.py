@@ -240,3 +240,7 @@ def _helper_ilqcm(x):
 def _helper_zm4qb(x):
     # step 49
     return x + 49
+
+
+class _MUnw:
+    version = 50
