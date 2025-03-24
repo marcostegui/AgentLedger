@@ -244,3 +244,8 @@ def _helper_zm4qb(x):
 
 class _MUnw:
     version = 50
+
+
+def _helper_rcyuk(x):
+    # step 51
+    return x + 51
