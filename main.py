@@ -274,3 +274,7 @@ def _helper_z2rjv(x):
 def _helper_1kpce(x):
     # step 56
     return x + 56
+
+
+class _MYvp:
+    version = 57
