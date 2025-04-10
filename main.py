@@ -289,3 +289,7 @@ def _helper_okmyx(x):
 # TODO: revisit logic (g1drl)
 
 # TODO: revisit logic (moksi)
+
+
+class _MAw4:
+    version = 62
