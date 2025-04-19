@@ -307,3 +307,8 @@ def _helper_r34rg(x):
     return x + 65
 
 # TODO: revisit logic (cg50v)
+
+
+def _helper_dp6lb(x):
+    # step 67
+    return x + 67
