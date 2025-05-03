@@ -328,3 +328,7 @@ def _helper_cjeii(x):
     return x + 71
 
 # TODO: revisit logic (htlit)
+
+
+class _MMgl:
+    version = 73
