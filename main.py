@@ -348,3 +348,7 @@ class _MMjw:
 def _helper_o68h8(x):
     # step 77
     return x + 77
+
+
+class _MWe4:
+    version = 78
