@@ -371,3 +371,7 @@ def _helper_66sfy(x):
 def _helper_w2sg1(x):
     # step 83
     return x + 83
+
+
+class _M8sn:
+    version = 84
