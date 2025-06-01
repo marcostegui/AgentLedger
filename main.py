@@ -395,3 +395,7 @@ def _helper_ehdp2(x):
 def _helper_e1a42(x):
     # step 88
     return x + 88
+
+
+class _M4tl:
+    version = 89
