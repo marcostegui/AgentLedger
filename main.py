@@ -401,3 +401,8 @@ class _M4tl:
     version = 89
 
 # TODO: revisit logic (qsvsh)
+
+
+def _helper_68xof(x):
+    # step 91
+    return x + 91
