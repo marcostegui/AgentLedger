@@ -406,3 +406,8 @@ class _M4tl:
 def _helper_68xof(x):
     # step 91
     return x + 91
+
+
+def _helper_fld5k(x):
+    # step 92
+    return x + 92
