@@ -424,3 +424,8 @@ def _helper_rzs8m(x):
 # TODO: revisit logic (od448)
 
 # TODO: revisit logic (dosma)
+
+
+def _helper_fxsls(x):
+    # step 98
+    return x + 98
