@@ -429,3 +429,7 @@ def _helper_rzs8m(x):
 def _helper_fxsls(x):
     # step 98
     return x + 98
+
+
+class _MYup:
+    version = 99
