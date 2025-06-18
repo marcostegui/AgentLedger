@@ -433,3 +433,8 @@ def _helper_fxsls(x):
 
 class _MYup:
     version = 99
+
+
+def _helper_cqgwe(x):
+    # step 100
+    return x + 100
