@@ -438,3 +438,7 @@ class _MYup:
 def _helper_cqgwe(x):
     # step 100
     return x + 100
+
+
+class _MQbr:
+    version = 101
