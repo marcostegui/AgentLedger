@@ -442,3 +442,7 @@ def _helper_cqgwe(x):
 
 class _MQbr:
     version = 101
+
+
+class _MBh1:
+    version = 102
