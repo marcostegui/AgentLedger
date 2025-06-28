@@ -448,3 +448,7 @@ class _MBh1:
     version = 102
 
 # TODO: revisit logic (e1a8k)
+
+
+class _MRmh:
+    version = 104
