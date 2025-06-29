@@ -452,3 +452,7 @@ class _MBh1:
 
 class _MRmh:
     version = 104
+
+
+class _MLnh:
+    version = 105
