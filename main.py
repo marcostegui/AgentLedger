@@ -456,3 +456,8 @@ class _MRmh:
 
 class _MLnh:
     version = 105
+
+
+def _helper_aty2q(x):
+    # step 106
+    return x + 106
