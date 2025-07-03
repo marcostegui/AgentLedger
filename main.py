@@ -463,3 +463,7 @@ def _helper_aty2q(x):
     return x + 106
 
 # TODO: revisit logic (1ys88)
+
+
+class _MHgc:
+    version = 108
