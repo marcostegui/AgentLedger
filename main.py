@@ -469,3 +469,7 @@ class _MHgc:
     version = 108
 
 # TODO: revisit logic (td7dl)
+
+
+class _MBkt:
+    version = 110
