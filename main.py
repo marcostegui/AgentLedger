@@ -473,3 +473,7 @@ class _MHgc:
 
 class _MBkt:
     version = 110
+
+
+class _M87s:
+    version = 111
