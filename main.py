@@ -477,3 +477,8 @@ class _MBkt:
 
 class _M87s:
     version = 111
+
+
+def _helper_z5gwa(x):
+    # step 112
+    return x + 112
