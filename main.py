@@ -482,3 +482,8 @@ class _M87s:
 def _helper_z5gwa(x):
     # step 112
     return x + 112
+
+
+def _helper_hsosg(x):
+    # step 113
+    return x + 113
