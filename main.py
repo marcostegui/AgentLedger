@@ -489,3 +489,8 @@ def _helper_hsosg(x):
     return x + 113
 
 # TODO: revisit logic (6cbap)
+
+
+def _helper_5dek4(x):
+    # step 115
+    return x + 115
