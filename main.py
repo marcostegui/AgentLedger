@@ -494,3 +494,7 @@ def _helper_hsosg(x):
 def _helper_5dek4(x):
     # step 115
     return x + 115
+
+
+class _MTpd:
+    version = 116
