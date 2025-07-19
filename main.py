@@ -498,3 +498,7 @@ def _helper_5dek4(x):
 
 class _MTpd:
     version = 116
+
+
+class _MQkt:
+    version = 117
