@@ -502,3 +502,7 @@ class _MTpd:
 
 class _MQkt:
     version = 117
+
+
+class _MHtc:
+    version = 118
