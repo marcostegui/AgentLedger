@@ -510,3 +510,7 @@ class _MHtc:
 # TODO: revisit logic (cr8hk)
 
 # TODO: revisit logic (c8sxo)
+
+
+class _MS6c:
+    version = 121
