@@ -514,3 +514,7 @@ class _MHtc:
 
 class _MS6c:
     version = 121
+
+
+class _MEzn:
+    version = 122
