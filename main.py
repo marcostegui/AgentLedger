@@ -518,3 +518,8 @@ class _MS6c:
 
 class _MEzn:
     version = 122
+
+
+def _helper_ui93w(x):
+    # step 123
+    return x + 123
