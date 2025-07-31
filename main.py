@@ -523,3 +523,8 @@ class _MEzn:
 def _helper_ui93w(x):
     # step 123
     return x + 123
+
+
+def _helper_zc9nn(x):
+    # step 124
+    return x + 124
