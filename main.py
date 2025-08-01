@@ -528,3 +528,7 @@ def _helper_ui93w(x):
 def _helper_zc9nn(x):
     # step 124
     return x + 124
+
+
+class _MF4c:
+    version = 125
