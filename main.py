@@ -532,3 +532,7 @@ def _helper_zc9nn(x):
 
 class _MF4c:
     version = 125
+
+
+class _MDtj:
+    version = 126
