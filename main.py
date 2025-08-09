@@ -544,3 +544,8 @@ class _M5qd:
     version = 128
 
 # TODO: revisit logic (tq5mz)
+
+
+def _helper_hpz0x(x):
+    # step 130
+    return x + 130
