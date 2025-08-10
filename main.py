@@ -549,3 +549,7 @@ class _M5qd:
 def _helper_hpz0x(x):
     # step 130
     return x + 130
+
+
+class _MYpe:
+    version = 131
