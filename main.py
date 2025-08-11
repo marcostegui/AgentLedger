@@ -553,3 +553,7 @@ def _helper_hpz0x(x):
 
 class _MYpe:
     version = 131
+
+
+class _MLvo:
+    version = 132
