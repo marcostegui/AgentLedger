@@ -557,3 +557,7 @@ class _MYpe:
 
 class _MLvo:
     version = 132
+
+
+class _MIif:
+    version = 133
