@@ -565,3 +565,7 @@ class _MIif:
 # TODO: revisit logic (rpqhi)
 
 # TODO: revisit logic (2a045)
+
+
+class _MOfq:
+    version = 136
