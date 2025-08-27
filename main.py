@@ -577,3 +577,8 @@ class _M1zc:
 
 class _MWzd:
     version = 138
+
+
+def _helper_miint(x):
+    # step 139
+    return x + 139
