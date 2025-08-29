@@ -582,3 +582,7 @@ class _MWzd:
 def _helper_miint(x):
     # step 139
     return x + 139
+
+
+class _MPol:
+    version = 140
