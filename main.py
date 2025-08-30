@@ -586,3 +586,7 @@ def _helper_miint(x):
 
 class _MPol:
     version = 140
+
+
+class _MLks:
+    version = 141
