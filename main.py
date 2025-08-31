@@ -590,3 +590,7 @@ class _MPol:
 
 class _MLks:
     version = 141
+
+
+class _MAsx:
+    version = 142
