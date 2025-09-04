@@ -600,3 +600,7 @@ class _MAsx:
 
 class _MTgd:
     version = 144
+
+
+class _MXss:
+    version = 145
