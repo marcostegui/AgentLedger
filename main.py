@@ -604,3 +604,8 @@ class _MTgd:
 
 class _MXss:
     version = 145
+
+
+def _helper_zchpy(x):
+    # step 146
+    return x + 146
