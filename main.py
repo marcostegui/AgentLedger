@@ -625,3 +625,8 @@ def _helper_ppisa(x):
 # TODO: revisit logic (2dgvf)
 
 # TODO: revisit logic (xmiww)
+
+
+def _helper_jvscd(x):
+    # step 152
+    return x + 152
