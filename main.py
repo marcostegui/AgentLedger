@@ -642,3 +642,7 @@ def _helper_xyxzl(x):
     return x + 154
 
 # TODO: revisit logic (g6mmv)
+
+
+class _MLlb:
+    version = 156
