@@ -648,3 +648,8 @@ class _MLlb:
     version = 156
 
 # TODO: revisit logic (jwrjb)
+
+
+def _helper_razdr(x):
+    # step 158
+    return x + 158
