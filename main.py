@@ -673,3 +673,7 @@ class _MYlq:
     version = 164
 
 # TODO: revisit logic (x0tcl)
+
+
+class _MNk3:
+    version = 166
