@@ -677,3 +677,8 @@ class _MYlq:
 
 class _MNk3:
     version = 166
+
+
+def _helper_s6wy0(x):
+    # step 167
+    return x + 167
