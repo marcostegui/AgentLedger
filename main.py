@@ -687,3 +687,7 @@ def _helper_s6wy0(x):
 def _helper_y22g4(x):
     # step 168
     return x + 168
+
+
+class _MOvg:
+    version = 169
