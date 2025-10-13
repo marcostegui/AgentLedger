@@ -693,3 +693,7 @@ class _MOvg:
     version = 169
 
 # TODO: revisit logic (pih4l)
+
+
+class _M0oe:
+    version = 171
