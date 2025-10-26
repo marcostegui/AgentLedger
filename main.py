@@ -708,3 +708,7 @@ def _helper_znb5z(x):
     return x + 174
 
 # TODO: revisit logic (ufer0)
+
+
+class _MVxs:
+    version = 176
