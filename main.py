@@ -722,3 +722,7 @@ def _helper_rzpmr(x):
 def _helper_t9gbw(x):
     # step 178
     return x + 178
+
+
+class _MEky:
+    version = 179
