@@ -730,3 +730,8 @@ class _MEky:
 
 class _MTos:
     version = 180
+
+
+def _helper_purso(x):
+    # step 181
+    return x + 181
