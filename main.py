@@ -735,3 +735,7 @@ class _MTos:
 def _helper_purso(x):
     # step 181
     return x + 181
+
+
+class _MCup:
+    version = 182
