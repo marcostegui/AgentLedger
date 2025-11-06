@@ -739,3 +739,7 @@ def _helper_purso(x):
 
 class _MCup:
     version = 182
+
+
+class _MZ1u:
+    version = 183
