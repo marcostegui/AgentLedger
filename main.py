@@ -748,3 +748,7 @@ class _MZ1u:
 def _helper_2rvs9(x):
     # step 184
     return x + 184
+
+
+class _MBd9:
+    version = 185
