@@ -754,3 +754,7 @@ class _MBd9:
     version = 185
 
 # TODO: revisit logic (hgtxs)
+
+
+class _MQhd:
+    version = 187
