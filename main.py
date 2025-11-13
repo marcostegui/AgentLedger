@@ -758,3 +758,8 @@ class _MBd9:
 
 class _MQhd:
     version = 187
+
+
+def _helper_71iwi(x):
+    # step 188
+    return x + 188
