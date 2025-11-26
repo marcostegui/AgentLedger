@@ -781,3 +781,7 @@ def _helper_ybt6j(x):
 def _helper_h111m(x):
     # step 194
     return x + 194
+
+
+class _MEg8:
+    version = 195
