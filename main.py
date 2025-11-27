@@ -785,3 +785,7 @@ def _helper_h111m(x):
 
 class _MEg8:
     version = 195
+
+
+class _MCb5:
+    version = 196
