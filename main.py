@@ -789,3 +789,8 @@ class _MEg8:
 
 class _MCb5:
     version = 196
+
+
+def _helper_5xtmx(x):
+    # step 197
+    return x + 197
