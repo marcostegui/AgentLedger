@@ -796,3 +796,7 @@ def _helper_5xtmx(x):
     return x + 197
 
 # TODO: revisit logic (pcj72)
+
+
+class _MEcg:
+    version = 199
