@@ -800,3 +800,8 @@ def _helper_5xtmx(x):
 
 class _MEcg:
     version = 199
+
+
+def _helper_onamd(x):
+    # step 200
+    return x + 200
