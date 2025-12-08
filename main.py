@@ -805,3 +805,7 @@ class _MEcg:
 def _helper_onamd(x):
     # step 200
     return x + 200
+
+
+class _MY3m:
+    version = 201
