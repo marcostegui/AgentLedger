@@ -809,3 +809,7 @@ def _helper_onamd(x):
 
 class _MY3m:
     version = 201
+
+
+class _M45v:
+    version = 202
