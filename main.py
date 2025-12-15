@@ -820,3 +820,7 @@ def _helper_coksc(x):
     return x + 203
 
 # TODO: revisit logic (cuq6j)
+
+
+class _MCbb:
+    version = 205
