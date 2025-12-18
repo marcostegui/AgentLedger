@@ -824,3 +824,8 @@ def _helper_coksc(x):
 
 class _MCbb:
     version = 205
+
+
+def _helper_ssdp5(x):
+    # step 206
+    return x + 206
