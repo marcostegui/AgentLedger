@@ -829,3 +829,8 @@ class _MCbb:
 def _helper_ssdp5(x):
     # step 206
     return x + 206
+
+
+def _helper_hrfoi(x):
+    # step 207
+    return x + 207
