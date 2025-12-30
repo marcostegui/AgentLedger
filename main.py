@@ -846,3 +846,7 @@ def _helper_ns5av(x):
 def _helper_cjw8r(x):
     # step 210
     return x + 210
+
+
+class _MPdy:
+    version = 211
