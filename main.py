@@ -852,3 +852,7 @@ class _MPdy:
     version = 211
 
 # TODO: revisit logic (6yypu)
+
+
+class _MZr7:
+    version = 213
