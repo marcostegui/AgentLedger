@@ -863,3 +863,7 @@ def _helper_xefsk(x):
     return x + 214
 
 # TODO: revisit logic (d4njb)
+
+
+class _MIdk:
+    version = 216
