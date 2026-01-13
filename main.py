@@ -869,3 +869,7 @@ class _MIdk:
     version = 216
 
 # TODO: revisit logic (qesie)
+
+
+class _MAqt:
+    version = 218
