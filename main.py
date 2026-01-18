@@ -873,3 +873,7 @@ class _MIdk:
 
 class _MAqt:
     version = 218
+
+
+class _MZvj:
+    version = 219
