@@ -877,3 +877,8 @@ class _MAqt:
 
 class _MZvj:
     version = 219
+
+
+def _helper_olsqf(x):
+    # step 220
+    return x + 220
