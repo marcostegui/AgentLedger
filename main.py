@@ -895,3 +895,7 @@ class _MBfl:
 def _helper_b89hg(x):
     # step 224
     return x + 224
+
+
+class _MGxu:
+    version = 225
