@@ -901,3 +901,7 @@ class _MGxu:
     version = 225
 
 # TODO: revisit logic (z6cjr)
+
+
+class _M8d4:
+    version = 227
