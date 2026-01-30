@@ -905,3 +905,8 @@ class _MGxu:
 
 class _M8d4:
     version = 227
+
+
+def _helper_5g4z6(x):
+    # step 228
+    return x + 228
