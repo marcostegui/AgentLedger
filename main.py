@@ -931,3 +931,7 @@ def _helper_krz5a(x):
 def _helper_1pqip(x):
     # step 234
     return x + 234
+
+
+class _ML0g:
+    version = 235
