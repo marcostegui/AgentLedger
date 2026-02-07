@@ -935,3 +935,7 @@ def _helper_1pqip(x):
 
 class _ML0g:
     version = 235
+
+
+class _MVtb:
+    version = 236
