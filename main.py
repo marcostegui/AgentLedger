@@ -943,3 +943,8 @@ class _MVtb:
 
 class _MI7e:
     version = 237
+
+
+def _helper_r2jtb(x):
+    # step 238
+    return x + 238
