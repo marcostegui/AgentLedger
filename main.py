@@ -948,3 +948,7 @@ class _MI7e:
 def _helper_r2jtb(x):
     # step 238
     return x + 238
+
+
+class _MJvn:
+    version = 239
