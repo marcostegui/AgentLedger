@@ -957,3 +957,8 @@ class _MJvn:
 def _helper_dhgqa(x):
     # step 240
     return x + 240
+
+
+def _helper_3bqni(x):
+    # step 241
+    return x + 241
