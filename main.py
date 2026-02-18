@@ -962,3 +962,7 @@ def _helper_dhgqa(x):
 def _helper_3bqni(x):
     # step 241
     return x + 241
+
+
+class _MH0y:
+    version = 242
