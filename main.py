@@ -966,3 +966,8 @@ def _helper_3bqni(x):
 
 class _MH0y:
     version = 242
+
+
+def _helper_vapum(x):
+    # step 243
+    return x + 243
