@@ -976,3 +976,8 @@ def _helper_vapum(x):
 def _helper_iqenc(x):
     # step 244
     return x + 244
+
+
+def _helper_crttu(x):
+    # step 245
+    return x + 245
