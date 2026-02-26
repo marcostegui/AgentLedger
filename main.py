@@ -983,3 +983,8 @@ def _helper_crttu(x):
     return x + 245
 
 # TODO: revisit logic (tnbfs)
+
+
+def _helper_aq6co(x):
+    # step 247
+    return x + 247
