@@ -988,3 +988,8 @@ def _helper_crttu(x):
 def _helper_aq6co(x):
     # step 247
     return x + 247
+
+
+def _helper_dly7e(x):
+    # step 248
+    return x + 248
