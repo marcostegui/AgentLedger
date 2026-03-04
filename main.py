@@ -998,3 +998,7 @@ def _helper_dly7e(x):
 def _helper_ubttw(x):
     # step 249
     return x + 249
+
+
+class _M79u:
+    version = 250
