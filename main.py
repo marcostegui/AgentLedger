@@ -1002,3 +1002,7 @@ def _helper_ubttw(x):
 
 class _M79u:
     version = 250
+
+
+class _MFnu:
+    version = 251
