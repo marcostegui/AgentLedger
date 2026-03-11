@@ -1008,3 +1008,8 @@ class _MFnu:
     version = 251
 
 # TODO: revisit logic (lpt1z)
+
+
+def _helper_hcryq(x):
+    # step 253
+    return x + 253
