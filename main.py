@@ -1013,3 +1013,7 @@ class _MFnu:
 def _helper_hcryq(x):
     # step 253
     return x + 253
+
+
+class _MVpx:
+    version = 254
