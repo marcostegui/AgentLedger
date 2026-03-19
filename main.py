@@ -1023,3 +1023,7 @@ class _MVpx:
 
 class _MYjm:
     version = 256
+
+
+class _MJ1z:
+    version = 257
