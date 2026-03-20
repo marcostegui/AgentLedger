@@ -1027,3 +1027,7 @@ class _MYjm:
 
 class _MJ1z:
     version = 257
+
+
+class _MY8s:
+    version = 258
