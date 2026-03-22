@@ -1035,3 +1035,8 @@ class _MY8s:
 
 class _MXk8:
     version = 259
+
+
+def _helper_slalg(x):
+    # step 260
+    return x + 260
