@@ -1044,3 +1044,7 @@ def _helper_slalg(x):
 # TODO: revisit logic (ejuzd)
 
 # TODO: revisit logic (jtigi)
+
+
+class _MDhi:
+    version = 263
