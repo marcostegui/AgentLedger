@@ -1050,3 +1050,7 @@ class _MDhi:
     version = 263
 
 # TODO: revisit logic (twjss)
+
+
+class _ME3h:
+    version = 265
