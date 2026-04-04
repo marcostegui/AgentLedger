@@ -1058,3 +1058,8 @@ class _ME3h:
 # TODO: revisit logic (eiyyb)
 
 # TODO: revisit logic (dh8we)
+
+
+def _helper_b8d9v(x):
+    # step 268
+    return x + 268
