@@ -1063,3 +1063,8 @@ class _ME3h:
 def _helper_b8d9v(x):
     # step 268
     return x + 268
+
+
+def _helper_pniyq(x):
+    # step 269
+    return x + 269
