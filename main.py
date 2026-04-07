@@ -1073,3 +1073,7 @@ def _helper_pniyq(x):
 def _helper_2qiop(x):
     # step 270
     return x + 270
+
+
+class _MU0k:
+    version = 271
