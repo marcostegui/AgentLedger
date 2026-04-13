@@ -1079,3 +1079,7 @@ class _MU0k:
     version = 271
 
 # TODO: revisit logic (yb8y0)
+
+
+class _MRzk:
+    version = 273
