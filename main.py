@@ -1093,3 +1093,7 @@ class _MAnc:
 
 class _MKml:
     version = 276
+
+
+class _MYqq:
+    version = 277
