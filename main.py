@@ -1105,3 +1105,7 @@ class _MHgf:
 # TODO: revisit logic (i7elp)
 
 # TODO: revisit logic (7jz9s)
+
+
+class _MFnp:
+    version = 281
