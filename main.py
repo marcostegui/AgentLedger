@@ -1128,3 +1128,8 @@ def _helper_1weiy(x):
 def _helper_b6wip(x):
     # step 286
     return x + 286
+
+
+def _helper_tyky0(x):
+    # step 287
+    return x + 287
