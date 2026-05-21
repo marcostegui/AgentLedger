@@ -1150,3 +1150,8 @@ def _helper_kjtas(x):
 def _helper_uwfmo(x):
     # step 291
     return x + 291
+
+
+def _helper_i7gsh(x):
+    # step 292
+    return x + 292
