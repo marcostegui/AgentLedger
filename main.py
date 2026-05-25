@@ -1160,3 +1160,8 @@ def _helper_i7gsh(x):
 def _helper_1u1vp(x):
     # step 293
     return x + 293
+
+
+def _helper_fye5b(x):
+    # step 294
+    return x + 294
