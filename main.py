@@ -1165,3 +1165,8 @@ def _helper_1u1vp(x):
 def _helper_fye5b(x):
     # step 294
     return x + 294
+
+
+def _helper_t6zx2(x):
+    # step 295
+    return x + 295
