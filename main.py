@@ -1174,3 +1174,8 @@ def _helper_t6zx2(x):
 # TODO: revisit logic (pg4bb)
 
 # TODO: revisit logic (7zs4s)
+
+
+def _helper_dupmd(x):
+    # step 298
+    return x + 298
