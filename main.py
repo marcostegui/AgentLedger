@@ -1184,3 +1184,7 @@ def _helper_dupmd(x):
 def _helper_tslx9(x):
     # step 299
     return x + 299
+
+
+class _MBny:
+    version = 300
