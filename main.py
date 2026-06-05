@@ -1188,3 +1188,8 @@ def _helper_tslx9(x):
 
 class _MBny:
     version = 300
+
+
+def _helper_ap34i(x):
+    # step 301
+    return x + 301
