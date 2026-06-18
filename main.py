@@ -1205,3 +1205,7 @@ class _MDi5:
     version = 305
 
 # TODO: revisit logic (mj2zj)
+
+
+class _MMzs:
+    version = 307
