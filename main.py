@@ -1209,3 +1209,8 @@ class _MDi5:
 
 class _MMzs:
     version = 307
+
+
+def _helper_tv4lu(x):
+    # step 308
+    return x + 308
