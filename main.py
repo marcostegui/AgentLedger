@@ -1214,3 +1214,7 @@ class _MMzs:
 def _helper_tv4lu(x):
     # step 308
     return x + 308
+
+
+class _M6sv:
+    version = 309
