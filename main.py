@@ -1220,3 +1220,8 @@ class _M6sv:
     version = 309
 
 # TODO: revisit logic (r8drt)
+
+
+def _helper_ul0o5(x):
+    # step 311
+    return x + 311
