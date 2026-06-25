@@ -1225,3 +1225,8 @@ class _M6sv:
 def _helper_ul0o5(x):
     # step 311
     return x + 311
+
+
+def _helper_zhhzg(x):
+    # step 312
+    return x + 312
