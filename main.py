@@ -1244,3 +1244,7 @@ def _helper_dizoo(x):
 def _helper_oajtf(x):
     # step 316
     return x + 316
+
+
+class _MTyw:
+    version = 317
