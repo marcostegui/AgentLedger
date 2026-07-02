@@ -1248,3 +1248,8 @@ def _helper_oajtf(x):
 
 class _MTyw:
     version = 317
+
+
+def _helper_wchco(x):
+    # step 318
+    return x + 318
