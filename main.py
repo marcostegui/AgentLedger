@@ -1253,3 +1253,8 @@ class _MTyw:
 def _helper_wchco(x):
     # step 318
     return x + 318
+
+
+def _helper_zpcme(x):
+    # step 319
+    return x + 319
