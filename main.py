@@ -1258,3 +1258,7 @@ def _helper_wchco(x):
 def _helper_zpcme(x):
     # step 319
     return x + 319
+
+
+class _MA6g:
+    version = 320
