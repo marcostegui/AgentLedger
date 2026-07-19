@@ -1285,3 +1285,7 @@ def _helper_1rudm(x):
     return x + 326
 
 # TODO: revisit logic (a35uo)
+
+
+class _MOxm:
+    version = 328
