@@ -1293,3 +1293,8 @@ class _MOxm:
 # TODO: revisit logic (g725i)
 
 # TODO: revisit logic (f02bz)
+
+
+def _helper_vfosa(x):
+    # step 331
+    return x + 331
