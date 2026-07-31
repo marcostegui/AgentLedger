@@ -1305,3 +1305,8 @@ def _helper_vfosa(x):
 def _helper_gqz34(x):
     # step 333
     return x + 333
+
+
+def _helper_ssv39(x):
+    # step 334
+    return x + 334
