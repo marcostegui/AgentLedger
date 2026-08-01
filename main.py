@@ -1310,3 +1310,7 @@ def _helper_gqz34(x):
 def _helper_ssv39(x):
     # step 334
     return x + 334
+
+
+class _MVbj:
+    version = 335
