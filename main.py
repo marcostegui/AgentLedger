@@ -1318,3 +1318,7 @@ class _MVbj:
 # TODO: revisit logic (du7iv)
 
 # TODO: revisit logic (sxgyp)
+
+
+class _MNzf:
+    version = 338
