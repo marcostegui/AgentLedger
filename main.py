@@ -1328,3 +1328,7 @@ class _M4xl:
     version = 339
 
 # TODO: revisit logic (b4if0)
+
+
+class _M6ht:
+    version = 341
