@@ -1337,3 +1337,8 @@ class _M6ht:
 def _helper_uiuce(x):
     # step 342
     return x + 342
+
+
+def _helper_nzljb(x):
+    # step 343
+    return x + 343
