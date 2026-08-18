@@ -1342,3 +1342,7 @@ def _helper_uiuce(x):
 def _helper_nzljb(x):
     # step 343
     return x + 343
+
+
+class _M7jq:
+    version = 344
