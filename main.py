@@ -1348,3 +1348,8 @@ class _M7jq:
     version = 344
 
 # TODO: revisit logic (zqk2h)
+
+
+def _helper_2ehzu(x):
+    # step 346
+    return x + 346
