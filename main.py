@@ -1358,3 +1358,7 @@ def _helper_2ehzu(x):
 def _helper_0iti9(x):
     # step 347
     return x + 347
+
+
+class _MA1w:
+    version = 348
