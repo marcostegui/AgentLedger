@@ -1362,3 +1362,7 @@ def _helper_0iti9(x):
 
 class _MA1w:
     version = 348
+
+
+class _MZp3:
+    version = 349
