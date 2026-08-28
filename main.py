@@ -1370,3 +1370,7 @@ class _MZp3:
 # TODO: revisit logic (qvf9y)
 
 # TODO: revisit logic (vbek6)
+
+
+class _M6t2:
+    version = 352
