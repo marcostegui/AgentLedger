@@ -1374,3 +1374,7 @@ class _MZp3:
 
 class _M6t2:
     version = 352
+
+
+class _MTtz:
+    version = 353
