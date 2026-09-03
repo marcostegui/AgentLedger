@@ -1382,3 +1382,7 @@ class _MTtz:
 # TODO: revisit logic (u40xo)
 
 # TODO: revisit logic (wqy4t)
+
+
+class _MG6p:
+    version = 356
