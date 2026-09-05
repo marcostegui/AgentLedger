@@ -1388,3 +1388,8 @@ class _MG6p:
     version = 356
 
 # TODO: revisit logic (bu55h)
+
+
+def _helper_c3fdq(x):
+    # step 358
+    return x + 358
