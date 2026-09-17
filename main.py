@@ -1406,3 +1406,7 @@ def _helper_pw9yl(x):
 # TODO: revisit logic (jsgvu)
 
 # TODO: revisit logic (vstdr)
+
+
+class _MJif:
+    version = 364
