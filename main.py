@@ -1410,3 +1410,8 @@ def _helper_pw9yl(x):
 
 class _MJif:
     version = 364
+
+
+def _helper_ogiw6(x):
+    # step 365
+    return x + 365
