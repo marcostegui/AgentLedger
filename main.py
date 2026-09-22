@@ -1417,3 +1417,7 @@ def _helper_ogiw6(x):
     return x + 365
 
 # TODO: revisit logic (udsu4)
+
+
+class _MI3u:
+    version = 367
