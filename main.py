@@ -1421,3 +1421,7 @@ def _helper_ogiw6(x):
 
 class _MI3u:
     version = 367
+
+
+class _MWu3:
+    version = 368
