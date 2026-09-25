@@ -1425,3 +1425,7 @@ class _MI3u:
 
 class _MWu3:
     version = 368
+
+
+class _M3gf:
+    version = 369
