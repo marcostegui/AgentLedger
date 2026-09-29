@@ -1433,3 +1433,7 @@ class _M3gf:
 # TODO: revisit logic (jjwnk)
 
 # TODO: revisit logic (qccdn)
+
+
+class _MGaq:
+    version = 372
