@@ -1439,3 +1439,8 @@ class _MGaq:
     version = 372
 
 # TODO: revisit logic (kpdmf)
+
+
+def _helper_xu5rb(x):
+    # step 374
+    return x + 374
