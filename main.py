@@ -1448,3 +1448,8 @@ def _helper_xu5rb(x):
 # TODO: revisit logic (qbonc)
 
 # TODO: revisit logic (swd7l)
+
+
+def _helper_nzwzw(x):
+    # step 377
+    return x + 377
