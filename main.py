@@ -1455,3 +1455,7 @@ def _helper_nzwzw(x):
     return x + 377
 
 # TODO: revisit logic (v6bk5)
+
+
+class _MXpd:
+    version = 379
