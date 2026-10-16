@@ -1461,3 +1461,7 @@ class _MXpd:
     version = 379
 
 # TODO: revisit logic (2z5rn)
+
+
+class _M2bf:
+    version = 381
