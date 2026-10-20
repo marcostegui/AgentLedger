@@ -1467,3 +1467,8 @@ class _M2bf:
     version = 381
 
 # TODO: revisit logic (xgjtk)
+
+
+def _helper_8xtb6(x):
+    # step 383
+    return x + 383
