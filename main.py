@@ -1472,3 +1472,7 @@ class _M2bf:
 def _helper_8xtb6(x):
     # step 383
     return x + 383
+
+
+class _MAw0:
+    version = 384
