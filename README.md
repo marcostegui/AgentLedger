@@ -1,4 +1,3 @@
-
 A lightweight, file‑based ledger for tracking financial transactions of multiple agents.  
 Designed for simplicity, AgentLedger stores data in JSON and provides a tiny API
 that can be embedded in scripts, bots, or small services.
