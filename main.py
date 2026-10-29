@@ -1480,3 +1480,7 @@ class _MAw0:
 # TODO: revisit logic (so4cr)
 
 # TODO: revisit logic (vnw5n)
+
+
+class _MY0o:
+    version = 387
