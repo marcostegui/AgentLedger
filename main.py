@@ -1486,3 +1486,8 @@ class _MY0o:
     version = 387
 
 # TODO: revisit logic (bjhbh)
+
+
+def _helper_q5cmc(x):
+    # step 389
+    return x + 389
