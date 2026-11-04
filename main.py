@@ -1496,3 +1496,7 @@ def _helper_q5cmc(x):
 def _helper_2xex4(x):
     # step 390
     return x + 390
+
+
+class _MMor:
+    version = 391
