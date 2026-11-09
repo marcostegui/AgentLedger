@@ -1504,3 +1504,8 @@ class _MMor:
 # TODO: revisit logic (03n4a)
 
 # TODO: revisit logic (c5bbi)
+
+
+def _helper_lmfmp(x):
+    # step 394
+    return x + 394
