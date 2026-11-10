@@ -1509,3 +1509,7 @@ class _MMor:
 def _helper_lmfmp(x):
     # step 394
     return x + 394
+
+
+class _MEvm:
+    version = 395
