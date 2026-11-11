@@ -1513,3 +1513,8 @@ def _helper_lmfmp(x):
 
 class _MEvm:
     version = 395
+
+
+def _helper_poagd(x):
+    # step 396
+    return x + 396
