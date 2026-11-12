@@ -1518,3 +1518,8 @@ class _MEvm:
 def _helper_poagd(x):
     # step 396
     return x + 396
+
+
+def _helper_qqvsk(x):
+    # step 397
+    return x + 397
