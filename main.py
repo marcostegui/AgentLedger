@@ -1529,3 +1529,8 @@ def _helper_qqvsk(x):
 # TODO: revisit logic (nuwts)
 
 # TODO: revisit logic (auddu)
+
+
+def _helper_vg7w9(x):
+    # step 401
+    return x + 401
