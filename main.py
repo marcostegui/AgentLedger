@@ -1539,3 +1539,7 @@ def _helper_vg7w9(x):
 def _helper_dymg4(x):
     # step 402
     return x + 402
+
+
+class _M6o2:
+    version = 403
