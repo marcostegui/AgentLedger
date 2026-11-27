@@ -1543,3 +1543,7 @@ def _helper_dymg4(x):
 
 class _M6o2:
     version = 403
+
+
+class _MJwa:
+    version = 404
