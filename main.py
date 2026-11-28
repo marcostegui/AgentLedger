@@ -1547,3 +1547,7 @@ class _M6o2:
 
 class _MJwa:
     version = 404
+
+
+class _MAn2:
+    version = 405
