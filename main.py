@@ -1551,3 +1551,8 @@ class _MJwa:
 
 class _MAn2:
     version = 405
+
+
+def _helper_jpdhw(x):
+    # step 406
+    return x + 406
