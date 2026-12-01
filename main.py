@@ -1556,3 +1556,7 @@ class _MAn2:
 def _helper_jpdhw(x):
     # step 406
     return x + 406
+
+
+class _MNb5:
+    version = 407
